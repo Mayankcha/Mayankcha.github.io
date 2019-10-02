@@ -1,0 +1,49 @@
+# Site settings
+title: "Mayank Chaudhary"
+title-description: " &#8226; Self-Motivated.Simple.Real"
+email: mayank27iitr@gmail.com
+description: "Self learned developer and a final year student of Electrical Enginerring at IIT Roorkee."
+keywords: "Mayank Chaudhary, mayank chaudhry, developer, web, IIT Roorkee, jekyll, blog, personal, about me"
+lang: "en"
+author:
+  first_name: "Mayank"
+  last_name: "Chaudhary"
+baseurl: ""
+url: "http://Mayankcha.github.io/"
+
+title_description: "Mayank is currently working with Allstate India in Bangalore. Before starting his professional career, He completed his undergraduate degree in Electrical Engineering from IIT Roorkee. -<i>"Be the change that you want to see in the world"</i> Mayank is passionate about building the business that has a great impact on society. He is very bullish about new tech disrupting the old and traditional industries and I enjoy being a part of it. Challenging the Status quo is fun. Highly responsible with skills of good decisions making and diplomacy to interact with the people. Ability to figure out the best ways to solve the problem in an autonomous manner. Also he possess a knack for getting things done fast and influencing others to follow his vision. Apart from doing serious stuff in a very smart way, Mayank loves networking with people. He is a personable individual that gets on well with those around him. He is an avid traveller and a Music enthusiast. He follows his interests and hope guides him further."
+
+title_image: "//s.gravatar.com/avatar/78156753f9d8feaebe2418780bdc262b?s=250"
+google_analytics: "UA-81663529-1"
+disqus_account: utkarshgpta
+github_repository: https://github.com/Mayankcha
+addthis_id: ra-579c871df85f4998
+post_limit: 3
+
+# Social usernames/URLs
+twitter_username: utkarshgpta
+instagram_username: utkarshgpta
+facebook_username: UtkarshGpta
+github_username:  Mayankcha
+linkedin_link: https://www.linkedin.com/in/mayank-chauhdhary/
+google_plus_link: 
+
+# Footer
+footer_left: "Made with <i class=\"fa fa-heart\"></i> by <a href=\"https://twitter.com/UtkarshGpta\">Mayank Chaudhary</a>"
+footer_right: "&lt;/&gt; on <a href=\"https://github.com/Mayankcha/Mayankcha.github.io\">Github</a> &nbsp;<i class=\"fa fa-github-alt\"></i>"
+
+# Build settings
+markdown: kramdown
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+permalink: pretty
+exclude: [vendor]
+exclude: ["LICENSE", "README.md", "CONTRIBUTING", "CONTRIBUTORS", "scripts"]
+
+gems:
+  - jekyll-sitemap
+  - jemoji
+  

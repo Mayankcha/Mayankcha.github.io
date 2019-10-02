@@ -1,0 +1,28 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+relative_permalinks: true
+
+# Dependencies
+markdown:         kramdown
+highlighter: pygments
+
+# Setup
+title:               Mayank Chaudhary
+tagline:             '{ Self Motivation is the key }'
+description:         'Open Sourcing my brain. A personal blog to blurt out my random thoughts and opinions. :)'
+url:                 http://about.me/MayankChaudhary
+baseurl:             ''
+gems: [jekyll-paginate]
+paginate:            3
+
+# About/contact
+author:
+  name:              Mayank Chaudhary
+  url:               https://twitter.com/MayankChaudhary
+  email:             mayank27iitr@gmail.com
+timezone: 			 IN
+
+# Custom vars
+version:             1.0.0
