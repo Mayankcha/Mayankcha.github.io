@@ -21,15 +21,15 @@ addthis_id:
 post_limit: 3
 
 # Social usernames/URLs
-twitter_username: 
-instagram_username: 
+twitter_username: Mayankcha27
+instagram_username: _damien_mk
 facebook_username: 
 github_username:  Mayankcha
 linkedin_link: https://www.linkedin.com/in/mayank-chauhdhary/
 google_plus_link: 
 
 # Footer
-footer_left: "Made with <i class=\"fa fa-heart\"></i> by <a href=\"https://twitter.com/UtkarshGpta\">Mayank Chaudhary</a>"
+footer_left: "Made with <i class=\"fa fa-heart\"></i> by <a href=\"https://twitter.com/Mayankcha27\">Mayank Chaudhary</a>"
 footer_right: "&lt;/&gt; on <a href=\"https://github.com/Mayankcha/Mayankcha.github.io\">Github</a> &nbsp;<i class=\"fa fa-github-alt\"></i>"
 
 # Build settings
