@@ -2,7 +2,7 @@
 My personal About Me page and Blog powered by Jekyll, hosted on Gihub.
 
 ## Theme
-Customized [Carte Noire](//github.com/jacobtomlinson/carte-noire) theme for personal use.
+Customized [Carte Noire] theme for personal use.
 
 ## Tools and Libraries
 The following tools and libraries are used in this theme
