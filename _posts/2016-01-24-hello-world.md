@@ -2,9 +2,9 @@
 layout: post
 title: Hello World!
 date:       2016-01-24 15:31:19
-author:     Utkarsh Gupta
-summary:    My first blog post's live on the internet.
-keywords:	"first, blog, jekyll, website, utkarshgpta, utkarsh gupta, developer, iit, roorkee, iit roorkee, personal, about me"
+author:      Mayank Chaudhary
+summary:    First Ever Blog Written By me.
+keywords:	"first, blog, jekyll, website, mayankchaudhary, mayank chaudhary, developer, iit, roorkee, iit roorkee, personal, about me"
 categories: jekyll
 thumbnail:  hand-peace-o
 comments: true
